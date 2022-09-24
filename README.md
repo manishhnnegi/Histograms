@@ -1,0 +1,2 @@
+# Histograms
+explanation of histograms!
